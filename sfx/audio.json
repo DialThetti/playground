@@ -1,0 +1,28 @@
+{
+    "fx": {
+        "jump": {
+            "url": "./sfx/jump.ogg"
+        },
+        "hurry": {
+            "url": "./sfx/hurry.ogg"
+        },
+        "coin": {
+            "url": "./sfx/coin.ogg"
+        },
+        "stomp": {
+            "url": "./sfx/stomp.ogg"
+        },
+        "overground": {
+            "url": "./sfx/overground.ogg"
+        },
+        "kick": {
+            "url": "./sfx/kick.wav"
+        },
+        "bump": {
+            "url": "./sfx/Bump.wav"
+        },
+        "thwomp": {
+            "url": "./sfx/Thwomp.wav"
+        }
+    }
+}
