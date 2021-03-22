@@ -1,4 +1,12 @@
 { "columns":6,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
  "image":"dev.png",
  "imageheight":48,
  "imagewidth":48,
@@ -126,6 +134,15 @@
                  "name":"solid",
                  "type":"bool",
                  "value":false
+                }]
+        }, 
+        {
+         "id":6,
+         "properties":[
+                {
+                 "name":"onlyCrouch",
+                 "type":"bool",
+                 "value":true
                 }]
         }],
  "tilewidth":8,

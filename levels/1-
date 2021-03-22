@@ -2,7 +2,7 @@
     "tileSet": "overground",
     "bgm": "overground",
 
-    "estimateTime": 120,
+    "estimateTime": 999,
     "startPosition": { "x": 4, "y": 12 },
 
     "layers": [
