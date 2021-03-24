@@ -1,7 +1,7 @@
 {
     "fx": {
         "jump": {
-            "url": "./sfx/jump.ogg"
+            "url": "./sfx/jump.wav"
         },
         "hurry": {
             "url": "./sfx/hurry.ogg"
