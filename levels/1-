@@ -3,7 +3,7 @@
     "bgm": "overground",
 
     "estimateTime": 999,
-    "startPosition": { "x": 4, "y": 12 },
+    "startPosition": { "x": 2, "y": 54 },
 
     "layers": [
         {
