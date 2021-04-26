@@ -1,4 +1,12 @@
 { "columns":64,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
  "image":"forest\/mainlevbuild.png",
  "imageheight":1024,
  "imagewidth":1024,
@@ -7127,7 +7135,7 @@
                 {
                  "name":"platform",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"solid",
@@ -7141,7 +7149,7 @@
                 {
                  "name":"platform",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"solid",
@@ -19816,7 +19824,7 @@
                 {
                  "name":"solid",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }]
         }, 
         {
@@ -20698,7 +20706,7 @@
                 {
                  "name":"solid",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }]
         }, 
         {
@@ -20712,7 +20720,7 @@
                 {
                  "name":"solid",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }]
         }, 
         {
